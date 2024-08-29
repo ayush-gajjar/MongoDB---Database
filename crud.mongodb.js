@@ -1,7 +1,12 @@
 
+// Operators in MongoDB 
+// => https://www.mongodb.com/docs/manual/reference/operator/
+
+
+
 // connect to local DB
-use("crudDB")
-console.log(db)
+// use("crudDB")
+// console.log(db)
 
 //////////////////////////////////// create table in DB ////////////////////////////////////////////
 
